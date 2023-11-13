@@ -1,0 +1,15 @@
+{
+  "name": "POO Javascript PUCRS",
+  "type": "module",
+  "description": "Projeto POO PUCRS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Willian Cordeiro",
+  "license": "ISC",
+  "dependencies": {
+    "bycontract": "^2.0.11",
+    "n-readlines": "^1.0.1"
+  }
+}
